@@ -20,7 +20,7 @@ pipeline {
         
         stage ("stage-3"){
             steps{
-                echo"This is 3rd pipeline"
+                echo"This is 3rd pipeline (Edit in GITHUB"
             }
         }
             }
